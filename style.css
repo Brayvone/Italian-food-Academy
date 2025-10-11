@@ -1,16 +1,17 @@
 #nav ul{
     display: flex;
     justify-content: space-around;
-    list-style-type: none;
+    list-style: none;
     padding: 2%;
     background-color: aquamarine;
 }
 #home{
-    width: center;
+    text-align: center;
 }
 #two img{
     width: 50vw;
     border-radius: 15% 0 15% 0;
 }
-
+#about{
+    text-align: start;
 }
