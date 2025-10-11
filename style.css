@@ -1,0 +1,41 @@
+#home h1{
+    text-align: center;
+}
+#home h3{
+    text-align: center;
+}
+#home{
+    background-size: cover;
+    background-color: whitesmoke;
+    height: 100vw;
+}
+.testimonials img{
+    width: 20vh;
+    border-radius: 25%;
+}
+.testimonials h6{
+    text-align: center;
+    color: #000;
+}
+
+.main{
+    display: flex;
+    font-family: sans-serif;
+}
+
+.testimonials {
+    display: flex;
+}
+
+.testimonials p{
+    font-size: small;
+    padding: 2%;
+    text-align: justify;
+}
+
+.header h3{
+    text-transform: capitalize;
+    text-align: center;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
