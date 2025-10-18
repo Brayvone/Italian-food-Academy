@@ -1,17 +1,32 @@
-#nav ul{
-    display: flex;
-    justify-content: space-around;
-    list-style: none;
-    padding: 2%;
-    background-color: aquamarine;
-}
-#home{
-    text-align: center;
-}
-#two img{
-    width: 50vw;
-    border-radius: 15% 0 15% 0;
+body{
+    font-family: sans-serif;
 }
 #about{
-    text-align: start;
+    font-style: italic;
+    justify-content: space-between;
+    border-style: ridge;
+    display: flex;
+    border-radius: 1%;
+    background-image: ;
+    background-size: cover;
+}
+#about img{
+    width: auto;
+    margin-top: 10%;
+    padding: auto;
+    border-radius: 20%;
+}
+.one{
+    text-align: center;
+    text-decoration: underline;
+    color: coral;
+}
+
+#about img,h3{
+    color: rgb(34, 255, 0);
+    text-align: center;
+}
+#about img,p{
+    text-align: center;
+    color: rgba(25, 0, 255, 0.619);
 }
